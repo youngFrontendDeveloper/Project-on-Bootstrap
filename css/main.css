@@ -679,6 +679,8 @@ svg {
 .swiper-container {
   width: 90%;
   margin-top: 50px;
+      position: relative;
+    overflow: hidden;
 }
 @media (min-width: 768px) {
   .swiper-container {
